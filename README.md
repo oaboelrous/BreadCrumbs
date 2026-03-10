@@ -41,7 +41,7 @@ Opens at `http://localhost:5173`.
 
 - React 18
 - Vite 5
-- No external graph libraries — custom SVG-based force-directed layout
+- No external graph libraries, custom SVG-based force-directed layout
 
 ## License
 
